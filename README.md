@@ -1,2 +1,2 @@
-# AutoReport-Instagram-Extesion
-A extasion for autoreport fake account on instragram.
+#Report-Instagram-Extesion
+A extasion for report fake-account on instragram.
