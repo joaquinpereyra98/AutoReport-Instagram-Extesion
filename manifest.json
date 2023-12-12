@@ -1,0 +1,18 @@
+{
+    "manifest_version":3,
+    "name":"Intragram AutoReport",
+    "description":"Extension for report fake-account with multiples accounts",
+    "version": "0.1",
+    "action": {
+        "default_popup":"index.html",
+        "default_icon":"placeHolder.png"
+    },
+    "content_scripts":[
+        {
+            "js":["script.js"],
+            "matches":[
+                "https://www.instagram.com/*"
+            ]
+        }
+    ]
+}
